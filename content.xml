@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260514095512HSET6Y</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260514095512FLDXRP</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SdA &quot;Viajamos al pasado&quot; </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>6ºEP</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Sara Garrido Ruiz </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de Aprendizaje dirigida a 6.º de Educación Primaria titulada “Viajeros del tiempo: descubrimos cómo ha cambiado nuestra vida”.
+
+La propuesta trabaja el conocimiento de los cambios sociales y tecnológicos a través de la investigación, el trabajo cooperativo y la creación de un museo digital comparando el pasado y el presente.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778743066774</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>8ea8f48b-aff8-469e-87a8-f38dfcdff979</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>INICIO</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INICIO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>INICIO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>8ea8f48b-aff8-469e-87a8-f38dfcdff979</odePageId>
+      <odeBlockId>block-1778743013719-yqdt7gjjb</odeBlockId>
+      <blockName>VIAJAMOS AL PASADO</blockName>
+      <iconName>reflection</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>8ea8f48b-aff8-469e-87a8-f38dfcdff979</odePageId>
+          <odeBlockId>block-1778743013719-yqdt7gjjb</odeBlockId>
+          <odeIdeviceId>idevice-1778743013716-weae5vpom</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778743013716-weae5vpom" title="" href="{{context_path}}/content/resources/Ficha resolucion de problemas minimalista verde.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Ficha resolucion de problemas minimalista verde.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778743013716-weae5vpom","img_0":{"img":"{{context_path}}/content/resources/Ficha resolucion de problemas minimalista verde.png","thumbnail":"{{context_path}}/content/resources/Ficha resolucion de problemas minimalista verde.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778742934112-hap6v4l9s</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PRESENTACIÓN</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRESENTACIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778742934112-hap6v4l9s</odePageId>
+      <odeBlockId>block-1778743103724-8228w3g7z</odeBlockId>
+      <blockName>Centro de Interés / Nivel / Temporalización</blockName>
+      <iconName>technology</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778742934112-hap6v4l9s</odePageId>
+          <odeBlockId>block-1778743103724-8228w3g7z</odeBlockId>
+          <odeIdeviceId>idevice-1778743103722-zwgdubpej</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778743103722-zwgdubpej" title="" href="{{context_path}}/content/resources/Ficha resolucion de problemas minimalista verde (1).png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Ficha resolucion de problemas minimalista verde (1).png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778743103722-zwgdubpej","img_0":{"img":"{{context_path}}/content/resources/Ficha resolucion de problemas minimalista verde (1).png","thumbnail":"{{context_path}}/content/resources/Ficha resolucion de problemas minimalista verde (1).png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778742934112-hap6v4l9s</odePageId>
+      <odeBlockId>block-1778743166175-bqahw3hre</odeBlockId>
+      <blockName>Materias / Descripción / Justificación</blockName>
+      <iconName>think_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778742934112-hap6v4l9s</odePageId>
+          <odeBlockId>block-1778743166175-bqahw3hre</odeBlockId>
+          <odeIdeviceId>idevice-1778743166173-d3fni16gz</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778743166173-d3fni16gz" title="" href="{{context_path}}/content/resources/Ficha resolucion de problemas minimalista verde (2).png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Ficha resolucion de problemas minimalista verde (2).png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778743166173-d3fni16gz","img_0":{"img":"{{context_path}}/content/resources/Ficha resolucion de problemas minimalista verde (2).png","thumbnail":"{{context_path}}/content/resources/Ficha resolucion de problemas minimalista verde (2).png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778742942152-u5m8uwtv7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PRODUCTO FINAL </pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRODUCTO FINAL </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778742942152-u5m8uwtv7</odePageId>
+      <odeBlockId>block-1778743237752-gxiqoh3pi</odeBlockId>
+      <blockName>Herramientas para hacer nuestro producto final</blockName>
+      <iconName>play</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778742942152-u5m8uwtv7</odePageId>
+          <odeBlockId>block-1778743237752-gxiqoh3pi</odeBlockId>
+          <odeIdeviceId>idevice-1778743237750-b892xs4p7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para la realización del producto final de esta SdA se propone al alumnado el uso de Canva y Genially.</p>
+<p>El objetivo de utilizar estas herramientas es que el alumnado pueda crear un museo digital del pasado y el presente donde comparen aspectos de la vida cotidiana de otras generaciones con la actualidad (escuela, juegos, alimentación, transportes, tecnología, etc.).</p>
+<p>Se han elegido estas herramientas porque son muy visuales, intuitivas y adecuadas para alumnado de 6º EP. Además, permiten trabajar de forma cooperativa, incorporar imágenes, textos y elementos interactivos, y favorecen el desarrollo de la competencia digital de manera sencilla y motivadora.</p>
+<p>También son herramientas accesibles y fáciles de usar en el contexto del centro, ya que pueden utilizarse desde ordenadores o tablets y no requieren conocimientos técnicos avanzados.</p>
+<p>Canva ofrece plantillas muy guiadas que facilitan la organización de la información, mientras que Genially permite crear presentaciones más dinámicas e interactivas.</p>
+<p>Por otro lado, el uso de estas herramientas ayuda a atender diferentes ritmos de aprendizaje, ya que el alumnado puede participar mediante tareas variadas: búsqueda de información, diseño visual, redacción de textos o exposición oral.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778743237750-b892xs4p7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para la realización del producto final de esta SdA se propone al alumnado el uso de Canva y Genially.</p>\n<p>El objetivo de utilizar estas herramientas es que el alumnado pueda crear un museo digital del pasado y el presente donde comparen aspectos de la vida cotidiana de otras generaciones con la actualidad (escuela, juegos, alimentación, transportes, tecnología, etc.).</p>\n<p>Se han elegido estas herramientas porque son muy visuales, intuitivas y adecuadas para alumnado de 6º EP. Además, permiten trabajar de forma cooperativa, incorporar imágenes, textos y elementos interactivos, y favorecen el desarrollo de la competencia digital de manera sencilla y motivadora.</p>\n<p>También son herramientas accesibles y fáciles de usar en el contexto del centro, ya que pueden utilizarse desde ordenadores o tablets y no requieren conocimientos técnicos avanzados.</p>\n<p>Canva ofrece plantillas muy guiadas que facilitan la organización de la información, mientras que Genially permite crear presentaciones más dinámicas e interactivas.</p>\n<p>Por otro lado, el uso de estas herramientas ayuda a atender diferentes ritmos de aprendizaje, ya que el alumnado puede participar mediante tareas variadas: búsqueda de información, diseño visual, redacción de textos o exposición oral.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778742955890-2sse20lu8</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>ACTIVIDADES Y TAREAS</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ACTIVIDADES Y TAREAS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778742955890-2sse20lu8</odePageId>
+      <odeBlockId>block-1778743283966-o50bn55m6</odeBlockId>
+      <blockName>Actividades y Tareas</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778742955890-2sse20lu8</odePageId>
+          <odeBlockId>block-1778743283966-o50bn55m6</odeBlockId>
+          <odeIdeviceId>idevice-1778743283965-7x9qy875d</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para el desarrollo de esta SdA se llevarán a cabo distintas actividades y tareas. Estas son: </p>
+<p><br />      - Presentación de la Situación de Aprendizaje (SdA) y realización de una lluvia de ideas sobre las diferencias entre la vida de antes y la actualidad.<br />      - Formulación de preguntas de investigación sobre cómo han cambiado la vida cotidiana, la escuela, los juegos, los medios de transporte o la tecnología a lo largo del tiempo.<br />      - Realización de entrevistas a familiares o personas cercanas para conocer cómo era la vida en décadas pasadas.<br />      - Búsqueda, selección y recopilación de información e imágenes en Internet relacionadas con la vida en el pasado.<br />      - Análisis crítico y selección de información fiable procedente de diferentes fuentes.<br />      - Organización, análisis y comparación de la información recopilada, estableciendo semejanzas y diferencias entre el pasado y el presente.<br />       - Elaboración de textos, descripciones y materiales visuales para el museo digital.<br />       - Diseño y elaboración del “Museo digital del pasado y del presente”.<br />       - Preparación y ensayo de la exposición oral del proyecto.<br />       - Presentación final del museo digital al resto de la clase.<br />       - Autoevaluación y coevaluación del trabajo realizado y de la participación en el proyecto.<br />       - Reflexión final sobre los aprendizajes adquiridos y sobre el uso responsable y seguro de la tecnología.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778743283965-7x9qy875d","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para el desarrollo de esta SdA se llevarán a cabo distintas actividades y tareas. Estas son: </p>\n<p><br />      - Presentación de la Situación de Aprendizaje (SdA) y realización de una lluvia de ideas sobre las diferencias entre la vida de antes y la actualidad.<br />      - Formulación de preguntas de investigación sobre cómo han cambiado la vida cotidiana, la escuela, los juegos, los medios de transporte o la tecnología a lo largo del tiempo.<br />      - Realización de entrevistas a familiares o personas cercanas para conocer cómo era la vida en décadas pasadas.<br />      - Búsqueda, selección y recopilación de información e imágenes en Internet relacionadas con la vida en el pasado.<br />      - Análisis crítico y selección de información fiable procedente de diferentes fuentes.<br />      - Organización, análisis y comparación de la información recopilada, estableciendo semejanzas y diferencias entre el pasado y el presente.<br />       - Elaboración de textos, descripciones y materiales visuales para el museo digital.<br />       - Diseño y elaboración del “Museo digital del pasado y del presente”.<br />       - Preparación y ensayo de la exposición oral del proyecto.<br />       - Presentación final del museo digital al resto de la clase.<br />       - Autoevaluación y coevaluación del trabajo realizado y de la participación en el proyecto.<br />       - Reflexión final sobre los aprendizajes adquiridos y sobre el uso responsable y seguro de la tecnología.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778742955890-2sse20lu8</odePageId>
+      <odeBlockId>block-1778743304972-gf80xrsg8</odeBlockId>
+      <blockName>Línea Temporal</blockName>
+      <iconName>chrono</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778742955890-2sse20lu8</odePageId>
+          <odeBlockId>block-1778743304972-gf80xrsg8</odeBlockId>
+          <odeIdeviceId>idevice-1778743304971-8nmeetrcr</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778743304971-8nmeetrcr" title="" href="{{context_path}}/content/resources/Organizador Gráfico línea de tiempo de la historia antiguo ilustrativo beis.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Organizador Gráfico línea de tiempo de la historia antiguo ilustrativo beis.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778743304971-8nmeetrcr","img_0":{"img":"{{context_path}}/content/resources/Organizador Gráfico línea de tiempo de la historia antiguo ilustrativo beis.png","thumbnail":"{{context_path}}/content/resources/Organizador Gráfico línea de tiempo de la historia antiguo ilustrativo beis.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778742963977-thaw6f3cg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CURACIÓN DE CONTENIDOS </pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CURACIÓN DE CONTENIDOS </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778742963977-thaw6f3cg</odePageId>
+      <odeBlockId>block-1778743427909-h3zchvb7b</odeBlockId>
+      <blockName>Propuesta de recursos para hacer nuestra SdA</blockName>
+      <iconName>ask</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778742963977-thaw6f3cg</odePageId>
+          <odeBlockId>block-1778743427909-h3zchvb7b</odeBlockId>
+          <odeIdeviceId>idevice-1778743427908-fkwz672sc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://www.notion.so/Viajeros-del-tiempo-descubrimos-c-mo-ha-cambiado-nuestra-vida-3593476998d5806281e7d665492071c0?source=copy_link" target="_blank" title="" rel="noopener">Recursos </a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778743427908-fkwz672sc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://www.notion.so/Viajeros-del-tiempo-descubrimos-c-mo-ha-cambiado-nuestra-vida-3593476998d5806281e7d665492071c0?source=copy_link\" target=\"_blank\" title=\"\" rel=\"noopener\">Recursos </a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778742976701-bcpvojz9t</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>EVALUACIÓN </pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EVALUACIÓN </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778742976701-bcpvojz9t</odePageId>
+      <odeBlockId>block-1778743792241-yv7xc5u4r</odeBlockId>
+      <blockName>Actividades / Tareas y criterios de evaluación</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778742976701-bcpvojz9t</odePageId>
+          <odeBlockId>block-1778743792241-yv7xc5u4r</odeBlockId>
+          <odeIdeviceId>idevice-1778743792239-if4ervkxf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://docs.google.com/document/d/1Mbd1wjlYctsKPdSAdbbKjveo8lEFMCGDFhhO-BOoxE8/edit?usp=sharing" target="_blank" title="" rel="noopener">Relación entre actividades /tareas y criterios de evaluación </a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778743792239-if4ervkxf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://docs.google.com/document/d/1Mbd1wjlYctsKPdSAdbbKjveo8lEFMCGDFhhO-BOoxE8/edit?usp=sharing\" target=\"_blank\" title=\"\" rel=\"noopener\">Relación entre actividades /tareas y criterios de evaluación </a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778742976701-bcpvojz9t</odePageId>
+      <odeBlockId>block-1778743869565-1hnih6ynh</odeBlockId>
+      <blockName>Instrumentos de evaluación</blockName>
+      <iconName>arts</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778742976701-bcpvojz9t</odePageId>
+          <odeBlockId>block-1778743869565-1hnih6ynh</odeBlockId>
+          <odeIdeviceId>idevice-1778743869563-h4wfynyuz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://docs.google.com/document/d/1Is6Y70xzghsrauAS1SZC4uGB5VXQM5EbrPb3wS5w_rQ/edit?usp=sharing" target="_blank" title="" rel="noopener">Instrumentos </a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778743869563-h4wfynyuz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://docs.google.com/document/d/1Is6Y70xzghsrauAS1SZC4uGB5VXQM5EbrPb3wS5w_rQ/edit?usp=sharing\" target=\"_blank\" title=\"\" rel=\"noopener\">Instrumentos </a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778742985348-2gx91wttb</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PROTECCIÓN DE DATOS</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROTECCIÓN DE DATOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778742985348-2gx91wttb</odePageId>
+      <odeBlockId>block-1778743951587-8tecfuoiz</odeBlockId>
+      <blockName>Recomendaciones para proteger nuestros datos</blockName>
+      <iconName>perform</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778742985348-2gx91wttb</odePageId>
+          <odeBlockId>block-1778743951587-8tecfuoiz</odeBlockId>
+          <odeIdeviceId>idevice-1778743951586-xi0qtlouf</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778743951586-xi0qtlouf" title="" href="{{context_path}}/content/resources/_Infografía Tecnología Seguridad Informática Software Ordenador Ilustrado Azul.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/_Infografía Tecnología Seguridad Informática Software Ordenador Ilustrado Azul.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778743951586-xi0qtlouf","img_0":{"img":"{{context_path}}/content/resources/_Infografía Tecnología Seguridad Informática Software Ordenador Ilustrado Azul.jpg","thumbnail":"{{context_path}}/content/resources/_Infografía Tecnología Seguridad Informática Software Ordenador Ilustrado Azul.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778743002365-z77o9vthx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA </pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778743002365-z77o9vthx</odePageId>
+      <odeBlockId>block-1778744078485-qehg6ve9d</odeBlockId>
+      <blockName>Guía Didáctica SdA &quot;Viajamos al pasado&quot;</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778743002365-z77o9vthx</odePageId>
+          <odeBlockId>block-1778744078485-qehg6ve9d</odeBlockId>
+          <odeIdeviceId>idevice-1778744078482-mw7piqnmg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Situación de Aprendizaje: </strong><br /><em><strong>“Viajeros del tiempo: descubrimos cómo ha cambiado nuestra vida”</strong></em></p>
+<p><br /><strong>1. Introducción</strong></p>
+<p><br />La presente SdA está dirigida al alumnado de 6.º de Educación Primaria y tiene como finalidad que el alumnado conozca y comprenda cómo ha cambiado la vida cotidiana a lo largo del tiempo mediante la investigación, la comparación entre pasado y presente y el uso de herramientas digitales sencillas.</p>
+<p>A través de metodologías activas y cooperativas, el alumnado analizará aspectos cercanos de su entorno como la escuela, los juegos, la alimentación, la ropa, los transportes o la tecnología, elaborando finalmente un “Museo digital del pasado y del presente”.</p>
+<p><br /><strong>2. Objetivos didácticos</strong></p>
+<p>El alumnado será capaz de:</p>
+<p>- Comprender los cambios producidos en la sociedad entre generaciones.<br />- Investigar y seleccionar información de distintas fuentes fiables.<br />- Realizar entrevistas sencillas para obtener información relevante.<br />- Comparar aspectos de la vida cotidiana del pasado y del presente.<br />- Utilizar herramientas digitales básicas para organizar y presentar información.<br />- Trabajar de forma cooperativa respetando las opiniones de los demás.<br />- Mejorar la expresión oral y escrita mediante exposiciones y producciones digitales.<br />- Reflexionar sobre el uso responsable y seguro de la tecnología.</p>
+<p><br /><strong>3. Metodología</strong></p>
+<p><br />La propuesta se basa en una metodología activa, participativa e interdisciplinar, donde el alumnado adquiere un papel protagonista en su aprendizaje.</p>
+<p>Se utilizarán:</p>
+<p>- Aprendizaje Basado en Proyectos (ABP).<br />- Trabajo cooperativo.<br />- Investigación guiada.<br />- Uso de herramientas digitales.<br />- Aprendizaje significativo conectado con el entorno familiar y social.<br /></p>
+<p>El docente actuará como guía y acompañante, proporcionando apoyo en la búsqueda de información, organización de tareas y uso de herramientas digitales.</p>
+<p><strong>4. Temporalización</strong></p>
+<p>La Situación de Aprendizaje se desarrollará en 7 sesiones de 45 minutos.</p>
+<p>  SESIÓN                     ACTIVIDAD<br />1                                  Presentación del proyecto y lluvia de ideas<br />2                                 Entrevista familiar y recogida de información<br />3                                 Búsqueda de información digital<br />4 y 5                           Organización de la información y elaboración del museo digital<br />6                                 Preparación de la exposición oral<br />7                                 Exposición final y reflexión conjunta</p>
+<p><a href="https://docs.google.com/document/d/1Mbd1wjlYctsKPdSAdbbKjveo8lEFMCGDFhhO-BOoxE8/edit?usp=sharing" target="_blank" title="" rel="noopener">RELACIÓN ENTRE ACTIVIDADES/TAREAS Y CRITERIOS DE EVALUACIÓN </a></p>
+<p><br /><strong>5. Producto final</strong></p>
+<p>“Museo digital del pasado y del presente”<br />El alumnado elaborará en pequeños grupos un museo digital interactivo donde comparará distintos aspectos de la vida cotidiana de antes y de ahora.</p>
+<p>El producto podrá realizarse mediante:</p>
+<p>- Canva<br />- Genially<br />- Google Slides<br /></p>
+<p>El museo incluirá:</p>
+<p>- Comparaciones “antes y ahora”.<br />- Fotografías antiguas y actuales.<br />- Entrevistas familiares.<br />- Curiosidades y conclusiones.<br />- Exposición oral final.<br /></p>
+<p><strong>6. Instrumentos de evaluación</strong></p>
+<p><strong>6.1. Rúbrica de evaluación del producto final</strong><br /><em>¿Qué se evaluará?</em><br />- Calidad de la información seleccionada.<br />- Comparación entre pasado y presente.<br />- Uso adecuado de herramientas digitales.<br />- Organización y creatividad del museo digital.<br />- Expresión oral durante la exposición.<br />- Trabajo cooperativo.</p>
+<p><br /><em>¿Cuándo se utilizará?</em><br />Durante:</p>
+<p>- La elaboración del museo digital.<br />- La exposición final.</p>
+<p><br /><em>¿Cómo se recogerán los datos?</em><br />El docente observará:</p>
+<p>- El trabajo diario.<br />- La participación.<br />- El producto final.<br />- La exposición oral.</p>
+<p><br /><em>¿Cómo se analizarán los resultados?</em><br />La rúbrica permitirá:</p>
+<p>- Detectar dificultades en competencia digital.<br />- Observar el nivel de comprensión del contenido.<br />- Valorar la capacidad de trabajo cooperativo.<br />-Ajustar futuras actividades y apoyos.<br /></p>
+<p><a href="https://docs.google.com/document/d/1PgSp5Pd1UcRV2xQjsB-Hi7Z-oev0iYxp0gSZqckW_g8/edit?usp=sharing" target="_blank" title="" rel="noopener">RÚBRICA DEL MUSEO DIGITAL</a><br />   </p>
+<p><strong>6.2. Diana de autoevaluación</strong></p>
+<p><em>¿Qué se evaluará?</em><br />La percepción del alumnado sobre:</p>
+<p>- Su participación.<br />- El trabajo en equipo.<br />- El uso de herramientas digitales.<br />- Lo aprendido sobre el pasado y el presente.<br />- Su implicación en el proyecto.<br /></p>
+<p><em>¿Cuándo se utilizará?</em><br />Al finalizar la Situación de Aprendizaje.</p>
+<p><em>¿Cómo se recogerán los datos?</em><br />Cada alumno completará individualmente una diana de autoevaluación.</p>
+<p><em>¿Cómo se analizarán los resultados?</em><br />La información permitirá:</p>
+<p>- Conocer el grado de motivación.<br />- Detectar inseguridades o dificultades.<br />- Mejorar futuras propuestas didácticas.<br />- Favorecer la reflexión del alumnado sobre su propio aprendizaje.<br /></p>
+<p><a href="https://canva.link/0b32gcuihi8biwj" target="_blank" title="" rel="noopener">DIANA DE AUTOEVALUACIÓN </a><br /></p>
+<p><strong>7. Atención a la diversidad</strong></p>
+<p>Se aplicarán medidas de apoyo y adaptación:</p>
+<p>- Grupos heterogéneos.<br />- Plantillas guiadas.<br />- Apoyo visual.<br />- Modelos de entrevista.<br />- Ayuda en el uso de herramientas digitales.<br />- Flexibilización de tareas según necesidades del alumnado.</p>
+<p><br /></p>
+<p><br /></p>
+<p><strong>8. Recursos y materiales</strong></p>
+<p><em>Recursos digitales</em><br />- Canva<br />- Genially<br />- Google Slides<br />- Padlet<br />- Kahoot<br />- Google Forms<br /></p>
+<p><em>Recursos materiales</em><br />- Ordenadores o tablets.<br />- Pizarra digital.<br />- Cuaderno.<br />- Fotografías familiares.<br />- Plantillas impresas.</p>
+<p><strong>9. Conclusión</strong></p>
+<p>Esta SdA permite trabajar de forma interdisciplinar contenidos sociales, lingüísticos y digitales mediante una propuesta cercana y motivadora para el alumnado.</p>
+<p>El proyecto favorece la investigación, la creatividad, el trabajo cooperativo y la reflexión sobre los cambios sociales y tecnológicos, contribuyendo al desarrollo competencial del alumnado a través de metodologías activas y herramientas digitales adaptadas a su nivel educativo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778744078482-mw7piqnmg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Situación de Aprendizaje: </strong><br /><em><strong>“Viajeros del tiempo: descubrimos cómo ha cambiado nuestra vida”</strong></em></p>\n<p><br /><strong>1. Introducción</strong></p>\n<p><br />La presente SdA está dirigida al alumnado de 6.º de Educación Primaria y tiene como finalidad que el alumnado conozca y comprenda cómo ha cambiado la vida cotidiana a lo largo del tiempo mediante la investigación, la comparación entre pasado y presente y el uso de herramientas digitales sencillas.</p>\n<p>A través de metodologías activas y cooperativas, el alumnado analizará aspectos cercanos de su entorno como la escuela, los juegos, la alimentación, la ropa, los transportes o la tecnología, elaborando finalmente un “Museo digital del pasado y del presente”.</p>\n<p><br /><strong>2. Objetivos didácticos</strong></p>\n<p>El alumnado será capaz de:</p>\n<p>- Comprender los cambios producidos en la sociedad entre generaciones.<br />- Investigar y seleccionar información de distintas fuentes fiables.<br />- Realizar entrevistas sencillas para obtener información relevante.<br />- Comparar aspectos de la vida cotidiana del pasado y del presente.<br />- Utilizar herramientas digitales básicas para organizar y presentar información.<br />- Trabajar de forma cooperativa respetando las opiniones de los demás.<br />- Mejorar la expresión oral y escrita mediante exposiciones y producciones digitales.<br />- Reflexionar sobre el uso responsable y seguro de la tecnología.</p>\n<p><br /><strong>3. Metodología</strong></p>\n<p><br />La propuesta se basa en una metodología activa, participativa e interdisciplinar, donde el alumnado adquiere un papel protagonista en su aprendizaje.</p>\n<p>Se utilizarán:</p>\n<p>- Aprendizaje Basado en Proyectos (ABP).<br />- Trabajo cooperativo.<br />- Investigación guiada.<br />- Uso de herramientas digitales.<br />- Aprendizaje significativo conectado con el entorno familiar y social.<br /></p>\n<p>El docente actuará como guía y acompañante, proporcionando apoyo en la búsqueda de información, organización de tareas y uso de herramientas digitales.</p>\n<p><strong>4. Temporalización</strong></p>\n<p>La Situación de Aprendizaje se desarrollará en 7 sesiones de 45 minutos.</p>\n<p>  SESIÓN                     ACTIVIDAD<br />1                                  Presentación del proyecto y lluvia de ideas<br />2                                 Entrevista familiar y recogida de información<br />3                                 Búsqueda de información digital<br />4 y 5                           Organización de la información y elaboración del museo digital<br />6                                 Preparación de la exposición oral<br />7                                 Exposición final y reflexión conjunta</p>\n<p><a href=\"https://docs.google.com/document/d/1Mbd1wjlYctsKPdSAdbbKjveo8lEFMCGDFhhO-BOoxE8/edit?usp=sharing\" target=\"_blank\" title=\"\" rel=\"noopener\">RELACIÓN ENTRE ACTIVIDADES/TAREAS Y CRITERIOS DE EVALUACIÓN </a></p>\n<p><br /><strong>5. Producto final</strong></p>\n<p>“Museo digital del pasado y del presente”<br />El alumnado elaborará en pequeños grupos un museo digital interactivo donde comparará distintos aspectos de la vida cotidiana de antes y de ahora.</p>\n<p>El producto podrá realizarse mediante:</p>\n<p>- Canva<br />- Genially<br />- Google Slides<br /></p>\n<p>El museo incluirá:</p>\n<p>- Comparaciones “antes y ahora”.<br />- Fotografías antiguas y actuales.<br />- Entrevistas familiares.<br />- Curiosidades y conclusiones.<br />- Exposición oral final.<br /></p>\n<p><strong>6. Instrumentos de evaluación</strong></p>\n<p><strong>6.1. Rúbrica de evaluación del producto final</strong><br /><em>¿Qué se evaluará?</em><br />- Calidad de la información seleccionada.<br />- Comparación entre pasado y presente.<br />- Uso adecuado de herramientas digitales.<br />- Organización y creatividad del museo digital.<br />- Expresión oral durante la exposición.<br />- Trabajo cooperativo.</p>\n<p><br /><em>¿Cuándo se utilizará?</em><br />Durante:</p>\n<p>- La elaboración del museo digital.<br />- La exposición final.</p>\n<p><br /><em>¿Cómo se recogerán los datos?</em><br />El docente observará:</p>\n<p>- El trabajo diario.<br />- La participación.<br />- El producto final.<br />- La exposición oral.</p>\n<p><br /><em>¿Cómo se analizarán los resultados?</em><br />La rúbrica permitirá:</p>\n<p>- Detectar dificultades en competencia digital.<br />- Observar el nivel de comprensión del contenido.<br />- Valorar la capacidad de trabajo cooperativo.<br />-Ajustar futuras actividades y apoyos.<br /></p>\n<p><a href=\"https://docs.google.com/document/d/1PgSp5Pd1UcRV2xQjsB-Hi7Z-oev0iYxp0gSZqckW_g8/edit?usp=sharing\" target=\"_blank\" title=\"\" rel=\"noopener\">RÚBRICA DEL MUSEO DIGITAL</a><br />   </p>\n<p><strong>6.2. Diana de autoevaluación</strong></p>\n<p><em>¿Qué se evaluará?</em><br />La percepción del alumnado sobre:</p>\n<p>- Su participación.<br />- El trabajo en equipo.<br />- El uso de herramientas digitales.<br />- Lo aprendido sobre el pasado y el presente.<br />- Su implicación en el proyecto.<br /></p>\n<p><em>¿Cuándo se utilizará?</em><br />Al finalizar la Situación de Aprendizaje.</p>\n<p><em>¿Cómo se recogerán los datos?</em><br />Cada alumno completará individualmente una diana de autoevaluación.</p>\n<p><em>¿Cómo se analizarán los resultados?</em><br />La información permitirá:</p>\n<p>- Conocer el grado de motivación.<br />- Detectar inseguridades o dificultades.<br />- Mejorar futuras propuestas didácticas.<br />- Favorecer la reflexión del alumnado sobre su propio aprendizaje.<br /></p>\n<p><a href=\"https://canva.link/0b32gcuihi8biwj\" target=\"_blank\" title=\"\" rel=\"noopener\">DIANA DE AUTOEVALUACIÓN </a><br /></p>\n<p><strong>7. Atención a la diversidad</strong></p>\n<p>Se aplicarán medidas de apoyo y adaptación:</p>\n<p>- Grupos heterogéneos.<br />- Plantillas guiadas.<br />- Apoyo visual.<br />- Modelos de entrevista.<br />- Ayuda en el uso de herramientas digitales.<br />- Flexibilización de tareas según necesidades del alumnado.</p>\n<p><br /></p>\n<p><br /></p>\n<p><strong>8. Recursos y materiales</strong></p>\n<p><em>Recursos digitales</em><br />- Canva<br />- Genially<br />- Google Slides<br />- Padlet<br />- Kahoot<br />- Google Forms<br /></p>\n<p><em>Recursos materiales</em><br />- Ordenadores o tablets.<br />- Pizarra digital.<br />- Cuaderno.<br />- Fotografías familiares.<br />- Plantillas impresas.</p>\n<p><strong>9. Conclusión</strong></p>\n<p>Esta SdA permite trabajar de forma interdisciplinar contenidos sociales, lingüísticos y digitales mediante una propuesta cercana y motivadora para el alumnado.</p>\n<p>El proyecto favorece la investigación, la creatividad, el trabajo cooperativo y la reflexión sobre los cambios sociales y tecnológicos, contribuyendo al desarrollo competencial del alumnado a través de metodologías activas y herramientas digitales adaptadas a su nivel educativo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778743010310-uv1dte7g0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRÉDITOS</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778743010310-uv1dte7g0</odePageId>
+      <odeBlockId>block-1778744623032-quaaq6tb5</odeBlockId>
+      <blockName>Créditos</blockName>
+      <iconName>piece</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778743010310-uv1dte7g0</odePageId>
+          <odeBlockId>block-1778744623032-quaaq6tb5</odeBlockId>
+          <odeIdeviceId>idevice-1778744623029-n1kc0dt5k</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Autor/a</span></span></span></span></strong><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"> Garrido Ruiz, Sara</span></span></span></span></p>
+<p><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Descripción</span></span></span></span></strong><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"> Situación de Aprendizaje dirigida a 6.º de Educación Primaria titulada “Viajeros del tiempo: descubrimos cómo ha cambiado nuestra vida”.</span></span></span></span><br /></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">La propuesta trabaja el conocimiento de los cambios sociales y tecnológicos a través de la investigación, el trabajo cooperativo y la creación de un museo digital comparando el pasado y el presente.</span></span></span></span></p>
+<p><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Licencia</span></span></span></span></strong><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"> Este material se comparte bajo licencia Creative Commons:</span></span></span></span></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">CC BY-NC-SA 4.0 </span></span></span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">(Se permite compartir y adaptar el material, citando la autoría, sin uso comercial y manteniendo la misma licencia).</span></span></span></span></p>
+<p><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Fuentes utilizadas</span></span></span></span></strong><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"> Currículo de Educación Primaria de Andalucía. </span></span></span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Recursos educativos digitales de Canva y Genially. </span></span></span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Bancos de imágenes libres de derechos: Canva</span></span></span></span></p>
+<p><br /><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Herramientas digitales utilizadas</span></span></span></span></strong><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"> Canva   </span></span></span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Google Slides </span></span></span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Padlet </span></span></span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Google Forms</span></span></span></span></p>
+<p><a href="https://drive.google.com/drive/folders/1TIuFGXKs1d-SMe_CgJNJatmHwq2j6Us4?usp=sharing" target="_blank" rel="noopener"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;" title="">ENLACE ARCHIVO</span></span></span></span></a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778744623029-n1kc0dt5k","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Autor/a</span></span></span></span></strong><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"> Garrido Ruiz, Sara</span></span></span></span></p>\n<p><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Descripción</span></span></span></span></strong><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"> Situación de Aprendizaje dirigida a 6.º de Educación Primaria titulada “Viajeros del tiempo: descubrimos cómo ha cambiado nuestra vida”.</span></span></span></span><br /></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">La propuesta trabaja el conocimiento de los cambios sociales y tecnológicos a través de la investigación, el trabajo cooperativo y la creación de un museo digital comparando el pasado y el presente.</span></span></span></span></p>\n<p><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Licencia</span></span></span></span></strong><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"> Este material se comparte bajo licencia Creative Commons:</span></span></span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">CC BY-NC-SA 4.0 </span></span></span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">(Se permite compartir y adaptar el material, citando la autoría, sin uso comercial y manteniendo la misma licencia).</span></span></span></span></p>\n<p><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Fuentes utilizadas</span></span></span></span></strong><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"> Currículo de Educación Primaria de Andalucía. </span></span></span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Recursos educativos digitales de Canva y Genially. </span></span></span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Bancos de imágenes libres de derechos: Canva</span></span></span></span></p>\n<p><br /><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Herramientas digitales utilizadas</span></span></span></span></strong><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"> Canva   </span></span></span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Google Slides </span></span></span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Padlet </span></span></span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Google Forms</span></span></span></span></p>\n<p><a href=\"https://drive.google.com/drive/folders/1TIuFGXKs1d-SMe_CgJNJatmHwq2j6Us4?usp=sharing\" target=\"_blank\" rel=\"noopener\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\" title=\"\">ENLACE ARCHIVO</span></span></span></span></a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
